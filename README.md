@@ -16,4 +16,4 @@ Video of agent playing Sonic! -> https://contest.openai.com/users/911
 
 4) With only half day of training on CPU, this agent was not able to generalize well enough but still achieved a decent score
 
-5) Eventually ran a PPO baseline and was able to rand 140 out of 229 participants: https://contest.openai.com/leaderboard
+5) Eventually ran a PPO baseline and was able to rank 140 out of 229 participants: https://contest.openai.com/leaderboard
