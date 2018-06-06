@@ -1,0 +1,6 @@
+/retro-baselines/*
+/retro-contest/*
+retro-baselines
+retro-contest
+logs/*
+__pycache__/*

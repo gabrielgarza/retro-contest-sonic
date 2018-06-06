@@ -1,0 +1,5 @@
+FROM openai/retro-agent
+ADD pg_agent.py .
+ADD pg.py .
+ADD output ./output
+CMD ["python", "-u", "/root/compo/pg_agent.py"]
